@@ -15,7 +15,13 @@ File description:
 
 PS: If you encounter problems with the format of the imported file, you can modify the xml suffix to opml suffix, or modify the opml suffix to xml suffix.
 
+```
+cp CyberSecurityRSS.xml CyberSecurityRSS.opml
+cp tiny.opml tiny.xml
+```
+
 ## Usage 1-Reeder3/Reeder4 (macOS, IOS preferred)
+import OMPL into Reeder `Subcsriptions -> Import from OMPL`
 
 ![截屏2020-09-27 下午9.02.50.png](https://i.loli.net/2020/09/28/NKmtPzv368hiYT9.png)
 
@@ -31,19 +37,21 @@ Import the file directly to use it.
 
 ## Usage 4 - Feedly
 
-Use the same way as Usage 1
-
-## Usage 5 - [BlueReader](https://bluereader.org/)
-
-Use the same way as Usage 1
+![截屏2021-02-06 下午7.29.44.png](https://i.loli.net/2021/02/06/X6Jkat3O2YcFPvK.png)
 
 ## Usage 6 - Feeder(Recommended for Android users)
 
 Use the same way as Usage 1
 
-## Usage 7 - [Zr](https://www.coolapk.com/apk/176794)(Recommended for Android users)
+## Usage 6 - [Zr](https://www.coolapk.com/apk/176794)(Recommended for Android users)
 
 Use the same way as Usage 1
+
+## Usage 7 - [anyant](https://rss.anyant.com/)(Web Online)
+
+Use the same way as Usage 1
+
+![7.png](https://i.loli.net/2021/02/10/pHdIEztoOUeVxv3.png)
 
 ## Epilogue
 
